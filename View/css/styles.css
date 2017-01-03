@@ -1,0 +1,347 @@
+#main
+{
+    background-color: #ebeee8;
+}
+
+.img
+{
+    width: auto;
+    height: 220px;
+}
+
+header
+{
+    border-bottom: 3px #e65100 solid;
+    padding-bottom: 5px;
+}
+
+.head_button
+{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.modal-button
+{
+    margin-top: 35px;
+}
+
+.modal
+{
+    overflow: auto;
+}
+
+.logo
+{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#moreRecipe
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+h1
+{
+    font-size: 45px;
+    text-align: center;
+}
+
+h3
+{
+    font-family: "Rockwell", Arial, sans-serif;
+    font-size: 45px;
+}
+
+.list
+{
+    list-style-type:none;
+    border: solid #ff6800;
+    background-color: white;
+    width: 260px;
+    height: 260px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Rockwell", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 45px 45px;
+    overflow: hidden;
+}
+
+.list a
+{
+    text-decoration: none;
+    color: #DB3D4C;
+}
+
+.toplist
+{
+    list-style-type:none;
+    border: solid #08c200;
+    background-color: white;
+    width: 260px;
+    height: 260px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Rockwell", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 45px 45px;
+    overflow: hidden;
+}
+
+.toplist a
+{
+    text-decoration: none;
+    color: #0d7e07
+}
+
+#photo
+{
+    color: #989898;
+    font-size: 12px;
+}
+
+.ingredList:before
+{
+    content: "»  ";
+}
+
+.nav-wrapper
+{
+    margin-top: 20px;
+}
+
+.listMenu a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.comments
+{
+    margin-top: 20px;
+}
+
+.comments-container
+{
+    margin-top: 30px;
+    border: 1px solid #c6c6c6;
+}
+
+.right-align a
+{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+.center-align
+{
+    color: #ef6c00;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+.page-footer
+{
+    color: #00b8d4;
+}
+#main
+{
+    background-color: #fbfff8;
+}
+
+.img
+{
+    width: auto;
+    height: 220px;
+}
+
+header
+{
+    border-bottom: 3px #e65100 solid;
+    padding-bottom: 10px;
+}
+
+.head_button
+{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.modal-button
+{
+    margin-top: 35px;
+}
+.modal
+{
+    overflow: auto;
+}
+
+.logo
+{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#moreRecipe
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1
+{
+    font-size: 45px;
+    text-align: center;
+}
+h3
+{
+    font-family: "Rockwell", Arial, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    display: block;
+}
+
+.list
+{
+    list-style-type:none;
+    border: solid #ff6800;
+    background-color: white;
+    width: 260px;
+    height: 260px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Rockwell", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 45px 45px;
+    overflow: hidden;
+}
+
+.list a
+{
+    text-decoration: none;
+    color: #DB3D4C;
+}
+
+.toplist
+{
+    list-style-type:none;
+    border: solid #08c200;
+    background-color: white;
+    width: 260px;
+    height: 260px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Rockwell", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 45px 45px;
+    overflow: hidden;
+}
+
+.toplist a
+{
+    text-decoration: none;
+    color: #0d7e07
+}
+
+#note
+{
+
+}
+
+#photo
+{
+    color: #989898;
+    font-size: 12px;
+}
+
+.ingredList:before {
+    content: "»  "; /* caractère UTF-8 */
+}
+
+.nav-wrapper
+{
+    margin-top: 20px;
+}
+
+.listMenu a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.comments
+{
+    margin-top: 20px;
+}
+
+.comments-container
+{
+    margin-top: 30px;
+    border: 1px solid #c6c6c6;
+}
+.right-align a
+{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+.center-align
+{
+    color: #ef6c00;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+.page-footer
+{
+    color: #00b8d4;
+}
+
+#topRecette
+{
+    display: inline-block;
+    text-align: center;
+}
+
+#recetteList
+{
+    display: inline-block;
+    text-align: center;
+}
+
+
+.index
+{
+    margin-left: 80px;
+}
+
+
